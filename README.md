@@ -1,0 +1,2 @@
+# DoorAssignmentFactoryPattern
+DoorAssignmentFactoryPattern Assignment to demonstrate Factory pattern
